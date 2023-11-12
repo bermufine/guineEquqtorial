@@ -3,8 +3,6 @@
 
 {"descriptionGuE":"Espace TV est une télévision chretienne basée à Conakry","sourceGuE":["http://69.64.57.208/espacetv/playlist.m3u8"],"subtitleGuE":"By Blender Channel","thumbGuE":"https://od.lk/s/M18yODMzMDg0MTZf/espace.jpg","titleGuE":"ESPACE TV"},
 
-{"descriptionGuE":"TVGE est une télévision basée à Conakry dans la commune de Matoto Kondeboungny au bord de l'autoroute Fidèle Castro (République de Guinée). La télé diffuse des informations du pays et du monde en temps réel. Des magazines axés sur les réalités des terroirs et des séries de divertissement. Détenue par le groupe Hadafo Médias, cette chaîne est la première du pays en terme d'audience, selon le rapport de Stat view international en 2019","sourceGuE":["http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8"],"subtitleGuE":"By Blender Channel","thumbGuE":"https://od.lk/s/M18yODM0MzU3ODFf/Tvge.png","titleGuE":"TVGE"},
-
 {"descriptionGuE":"Shammah TV est une télévision chretienne basée à Conakry","sourceGuE":["https://cageu.bozztv.com/ssh101/ssh101/my23a2r/playlist.m3u8"],"subtitleGuE":"By Blender Channel","thumbGuE":"https://od.lk/s/M18yODMzMDg0MTZf/espace.jpg","titleGuE":"SHAMMAH TV"},
 
 {"descriptionGuE":"La RTG2 est la deuxième télévision nationale de la République de Guinée.","sourceGuE":["http://69.64.57.208/tvge/playlist.m3u8"],"subtitleGuE":"By Blender Channel","thumbGuE":"https://od.lk/s/M18yODQ2NzY3NDBf/rtg2.jpeg","titleGuE":"RTG 2"},
