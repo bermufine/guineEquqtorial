@@ -3,7 +3,9 @@
 
 {"descriptionGuE":"Espace TV est une télévision chretienne basée à Conakry","sourceGuE":["http://69.64.57.208/espacetv/playlist.m3u8"],"subtitleGuE":"By Blender Channel","thumbGuE":"https://od.lk/s/M18yODMzMDg0MTZf/espace.jpg","titleGuE":"ESPACE TV"},
 
-{"descriptionGuE":"Shammah TV est une télévision chretienne basée à Conakry","sourceGuE":["https://cageu.bozztv.com/ssh101/ssh101/my23a2r/playlist.m3u8"],"subtitleGuE":"By Blender Channel","thumbGuE":"https://od.lk/s/M18yODMzMDg0MTZf/espace.jpg","titleGuE":"SHAMMAH TV"},
+{"descriptionGuE":"ASONGA TV est une télévision chretienne basée à Conakry","sourceGuE":["https://stream.castr.com/6358a30fa50e3ae11b6d0424/live_cbde16509c3611ed91f289dac03ffaaf/tracks-v1a1/mono.m3u8"],"subtitleGuE":"By Blender Channel","thumbGuE":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titleGuE":"ASONGA TV"},
+
+{"descriptionGuE":"Shammah TV est une télévision chretienne basée à Conakry","sourceGuE":["https://cageu.bozztv.com/ssh101/ssh101/my23a2r/playlist.m3u8"],"subtitleGuE":"By Blender Channel","thumbGuE":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titleGuE":"SHAMMAH TV"},
 
 {"descriptionGuE":"La RTG2 est la deuxième télévision nationale de la République de Guinée.","sourceGuE":["http://69.64.57.208/tvge/playlist.m3u8"],"subtitleGuE":"By Blender Channel","thumbGuE":"https://od.lk/s/M18yODQ2NzY3NDBf/rtg2.jpeg","titleGuE":"RTG 2"},
 
