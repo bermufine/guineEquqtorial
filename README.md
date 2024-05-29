@@ -1,5 +1,7 @@
 # guineEquqtorial
-{"categorieGuE":[{"name":"Movies","videos":[{"descriptionGuE":"Evasion TV est une télévision chretienne basée à Conakry","sourceGuE":["https://kali1.everestcast.com:3235/live/visionweblive.m3u8"],"subtitleGuE":"By Blender Channel","thumbGuE":"https://od.lk/s/NzNfODAxMDAzNjRf/evasion.jpeg","titleGuE":"EVASION TV"},
+{"categorieGuE":[{"name":"Movies","videos":[{"descriptionGuE":"CISTVTV est une télévision chretienne basée à Conakry","sourceGuE":["http://185.59.221.131:8081/live/cistv/playlist.m3u8"],"subtitleGuE":"By Blender Channel","thumbGuE":"https://od.lk/s/M18yODYyNDM2NzBf/cisguinee.png","titleGuE":"CISTV"},
+
+{"descriptionGuE":"Evasion TV est une télévision chretienne basée à Conakry","sourceGuE":["https://kali1.everestcast.com:3235/live/visionweblive.m3u8"],"subtitleGuE":"By Blender Channel","thumbGuE":"https://od.lk/s/NzNfODAxMDAzNjRf/evasion.jpeg","titleGuE":"EVASION TV"},
 
 {"descriptionGuE":"Shammah TV est une télévision chretienne basée à Conakry","sourceGuE":["https://cageu.bozztv.com/ssh101/ssh101/my23a2r/playlist.m3u8"],"subtitleGuE":"By Blender Channel","thumbGuE":"https://od.lk/s/NzNfODAxMDAyOTBf/shammah.jpeg","titleGuE":"SHAMMAH TV"},
 
