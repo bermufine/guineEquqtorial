@@ -1,5 +1,7 @@
 # guineEquqtorial
-{"categorieGuE":[{"name":"Movies","videos":[{"descriptionGuE":"CISTVTV est une télévision chretienne basée à Conakry","sourceGuE":["http://185.59.221.131:8081/live/cistv/playlist.m3u8"],"subtitleGuE":"By Blender Channel","thumbGuE":"https://od.lk/s/M18yODYyNDM2NzBf/cisguinee.png","titleGuE":"CISTV"},
+{"categorieGuE":[{"name":"Movies","videos":[{"descriptionGuE":"La Radio Télévision Guinéenne (RTG), l’un des premiers organes de presse public du pays, est absente dans plusieurs villes de l’intérieur du pays. Et ce après 42 ans depuis sa création. Par endroits, les signaux de la RTG sont totalement absents depuis plusieurs années. Par contre, dans certaines préfectures, malgré la réception des signaux, faute d’énergie, les populations sont privées des émissions de la RTG, a-t-on constaté.","sourceGuE":["http://185.59.221.131:8081/live/rtg/playlist.m3u8"],"subtitleGuE":"By Blender Channel","thumbGuE":"https://od.lk/s/M18yNjk1NzIyMTVf/rtguinee.jpg","titleGuE":"RTG"},
+
+{"descriptionGuE":"CISTVTV est une télévision chretienne basée à Conakry","sourceGuE":["http://185.59.221.131:8081/live/cistv/playlist.m3u8"],"subtitleGuE":"By Blender Channel","thumbGuE":"https://od.lk/s/M18yODYyNDM2NzBf/cisguinee.png","titleGuE":"CISTV"},
 
 {"descriptionGuE":"Evasion TV est une télévision chretienne basée à Conakry","sourceGuE":["https://kali1.everestcast.com:3235/live/visionweblive.m3u8"],"subtitleGuE":"By Blender Channel","thumbGuE":"https://od.lk/s/NzNfODAxMDAzNjRf/evasion.jpeg","titleGuE":"EVASION TV"},
 
@@ -18,7 +20,7 @@ https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg
 
 
 
-{"descriptionGuE":"La Radio Télévision Guinéenne (RTG), l’un des premiers organes de presse public du pays, est absente dans plusieurs villes de l’intérieur du pays. Et ce après 42 ans depuis sa création. Par endroits, les signaux de la RTG sont totalement absents depuis plusieurs années. Par contre, dans certaines préfectures, malgré la réception des signaux, faute d’énergie, les populations sont privées des émissions de la RTG, a-t-on constaté.","sourceGuE":["http://69.64.57.208/rtg/playlist.m3u8"],"subtitleGuE":"By Blender Channel","thumbGuE":"https://od.lk/s/M18yNjk1NzIyMTVf/rtguinee.jpg","titleGuE":"RTG"},
+
 
 {"descriptionGuE":"Espace TV est une télévision chretienne basée à Conakry","sourceGuE":["http://69.64.57.208/espacetv/playlist.m3u8"],"subtitleGuE":"By Blender Channel","thumbGuE":"https://od.lk/s/M18yODMzMDg0MTZf/espace.jpg","titleGuE":"ESPACE TV"},
 
